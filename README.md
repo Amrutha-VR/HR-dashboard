@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-<h1 align="center">🏢 CoreHR — Simplified HRIS Dashboard</h1>
+<h1 align="center">CoreHR — Simplified HRIS Dashboard</h1>
 
 <p align="center">
   <b>A polished, professional, and production-quality employee management directory built for HR teams.</b>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🔐 Demo Login Credentials
+##  Demo Login Credentials
 
 | Field    | Value              |
 |----------|--------------------|
@@ -36,24 +36,24 @@
 
 ---
 
-## ✨ Features at a Glance
+##  Features at a Glance
 
 | Feature | Description |
 |---------|-------------|
-| 📊 **HR Dashboard** | Summary metrics, department & status charts, recent joiners, motivational quote widget |
-| 👥 **Employee Directory** | Searchable, filterable, sortable employee table with 6 filter dimensions |
-| 🧑‍💼 **Employee Detail View** | Full profile — employment info, projects, performance, direct reports, contacts |
-| 🏗️ **Org Chart** | Top-to-bottom visual hierarchy built dynamically from `managerId` relationships |
-| ⬆️ **Promote / Demote** | Simulate HR role changes with polished modal — updates state instantly |
-| 🔒 **Login & Auth** | Mock HR-only login with protected routes, session persistence, and logout |
-| 🔑 **Forgot Password** | Simulated password reset flow with elegant success state |
-| 💬 **Quote Widget** | Auto-rotating motivational quotes curated for HR teams |
-| 📈 **Performance View** | Star ratings, trend indicators, review status per employee |
-| 🧭 **Cross Navigation** | Seamless flow between directory → detail → org chart and back |
+|  **HR Dashboard** | Summary metrics, department & status charts, recent joiners, motivational quote widget |
+|  **Employee Directory** | Searchable, filterable, sortable employee table with 6 filter dimensions |
+|  **Employee Detail View** | Full profile — employment info, projects, performance, direct reports, contacts |
+|  **Org Chart** | Top-to-bottom visual hierarchy built dynamically from `managerId` relationships |
+|  **Promote / Demote** | Simulate HR role changes with polished modal — updates state instantly |
+|  **Login & Auth** | Mock HR-only login with protected routes, session persistence, and logout |
+|  **Forgot Password** | Simulated password reset flow with elegant success state |
+|  **Quote Widget** | Auto-rotating motivational quotes curated for HR teams |
+|  **Performance View** | Star ratings, trend indicators, review status per employee |
+|  **Cross Navigation** | Seamless flow between directory → detail → org chart and back |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -70,7 +70,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -114,7 +114,7 @@ src/
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 | Element | Value |
 |---------|-------|
@@ -130,22 +130,22 @@ src/
 
 ---
 
-## 🧑‍💻 Mock Data Overview
+##  Mock Data Overview
 
 - **25 realistic employees** across **5 departments** and **11 teams**
 - Nested reporting hierarchy: CEO → VPs → Managers → Team Leads → ICs
 - Edge cases included:
-  - 🔴 Inactive employee
-  - 🟡 Employee on leave
-  - 🔵 Probation / new hire
-  - 📄 Contract employee & intern
-  - ⚠️ Invalid manager reference (`EMP-999`)
-  - 👥 Duplicate first names
-  - 📝 Missing optional fields (address, emergency contact, notes)
+  -  Inactive employee
+  -  Employee on leave
+  -  Probation / new hire
+  -  Contract employee & intern
+  -  Invalid manager reference (`EMP-999`)
+  -  Duplicate first names
+  -  Missing optional fields (address, emergency contact, notes)
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -177,16 +177,16 @@ npm run preview
 
 ---
 
-## 📱 Core Screens
+##  Core Screens
 
-### 1. 🔐 Login Page
+### 1. Login Page
 - Elegant centered card with CoreHR branding
 - Email & password fields with show/hide toggle
 - Input validation & error handling
 - "Forgot Password" link
 - Demo credentials displayed professionally
 
-### 2. 📊 HR Dashboard
+### 2.  HR Dashboard
 - 6 summary metric cards (Total, Active, Managers, Teams, Under Review, Departments)
 - Department distribution bar chart
 - Workforce status donut chart
@@ -194,7 +194,7 @@ npm run preview
 - Auto-rotating motivational quote widget
 - Full employee table with search, 6 filters, and multi-column sorting
 
-### 3. 🧑‍💼 Employee Detail
+### 3.  Employee Detail
 - Profile header with avatar, status badges, and profile completeness
 - Employment info, projects (current + previous), and team details
 - Performance summary (stars, trend, review status)
@@ -203,7 +203,7 @@ npm run preview
 - Promote / Demote HR actions with polished modal
 - "View in Org Chart" navigation
 
-### 4. 🏗️ Org Chart
+### 4.  Org Chart
 - Top-to-bottom visual hierarchy with centered layout
 - Dynamic tree built from `managerId` relationships
 - Expand / collapse per node with `+`/`−` controls
@@ -213,7 +213,7 @@ npm run preview
 
 ---
 
-## 🔧 Key Engineering Decisions
+##  Key Engineering Decisions
 
 | Decision | Rationale |
 |----------|-----------|
@@ -226,7 +226,7 @@ npm run preview
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
