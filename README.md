@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-<h1 align="center">CoreHR — Simplified HRIS Dashboard</h1>
+<h1 align="center">CoreHR - Simplified HRIS Dashboard</h1>
 
 <p align="center">
   <b>A polished, professional, and production-quality employee management directory built for HR teams.</b>
